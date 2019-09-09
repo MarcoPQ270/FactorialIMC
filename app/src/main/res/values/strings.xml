@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculo Factorial</string>
+    <string name="lbltitle">Calculadora factorial</string>
+    <string name="edtnum">Ingrese un numero</string>
+    <string name="btncalcular">Calcular Factorial</string>
+    <string name="lbltitle2">El resultado factorial es:</string>
+
+</resources>
